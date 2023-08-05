@@ -11,8 +11,8 @@ module.exports = {
   name: 'Shoaib Mohammed',
   location: 'Chicago, IL',
   email: 'shoaibmohammed7310@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  github: 'https://github.com/shoaibmohammed7/heuristic.folio',
+  twitterHandle: '@shoaib7',
   socialMedia: [
     {
       name: 'GitHub',
