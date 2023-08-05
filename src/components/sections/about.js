@@ -133,7 +133,7 @@ const About = ({ data }) => {
           </SkillsContainer>
         </StyledContent>
         <StyledPic>
-          <StyledAvatarLink href={github}>
+          <StyledAvatarLink href="https://github.com/shoaibmohammed7/heuristic.folio">
             <StyledAvatar fluid={avatar.childImageSharp.fluid} alt="Avatar" />
           </StyledAvatarLink>
         </StyledPic>
