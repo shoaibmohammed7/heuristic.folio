@@ -1,10 +1,10 @@
 module.exports = {
   siteTitle: 'Shoaib | Software Developer | Portfolio',
   siteDescription:
-    'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Explore the captivating world of Shoaib Mohammed, a visionary Software Developer and Graduate Student, showcasing cutting-edge creations and boundless innovation.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Shoaib Mohammed, Shoaib, Mohammed, shoaibmohammed7, software developer, software engineer, Brain Tumor Study, Network Analysis, web developer, java developer, Hyderabad, Cognizant, bit, mesra',
+  siteUrl: 'https://heuristicfoliomaster.gatsbyjs.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
@@ -12,7 +12,7 @@ module.exports = {
   location: 'Chicago, IL',
   email: 'shoaibmohammed7310@gmail.com',
   github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  twitterHandle: '@shoaib7',
   socialMedia: [
     {
       name: 'GitHub',
