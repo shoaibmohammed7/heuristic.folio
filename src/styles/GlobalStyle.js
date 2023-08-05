@@ -143,7 +143,7 @@ const GlobalStyle = createGlobalStyle`
     display: inline-block;
     text-decoration: none;
     text-decoration-skip-ink: auto;
-    color: #a8b2d1;
+    color: #a7e3c5;
     position: relative;
     transition: ${theme.transition};
     cursor: pointer;
