@@ -5,15 +5,15 @@
   Portfolio Website Version 2
 </h1>
 <p align="center">
-  The second iteration of <a href=https://github.com/shoaibmohammed7/heuristic.folio" target="_blank">heuristicfolioshoaib.gatsbyjs.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The second iteration of <a href="https://github.com/shoaibmohammed7/heuristic.folio/" target="_blank">heuristicfolioshoaib.gatsbyjs.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.gatsbyjs.com/products/cloud/" target="_blank">Gatsby Cloud</a>
 </p>
 <p align="center">
   Previous iterations:
-  <a href="https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1" target="_blank">Version 1</a>
+  <a href="https://github.com/shoaibmohammed7/heuristic.folio/" target="_blank">Version 1</a>
 </p>
 
 <div align="center">
-  <img alt="Demo" src="/src/images/demo.png" />
+  <img alt="Demo" src="https://github.com/shoaibmohammed7/heuristic.folio/blob/master/src/images/demo.png" />
 </div>
 
 ### TL;DR
