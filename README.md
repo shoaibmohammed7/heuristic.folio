@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/shoaibmohammed7/heuristic.folio/blob/master/src/images/demo.png" />
+  <img alt="Demo" src="https://github.com/shoaibmohammed7/heuristic.folio/blob/master/src/images/demo1.png" />
 </div>
 
 ### TL;DR
