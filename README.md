@@ -5,7 +5,7 @@
   Portfolio Website 
 </h1>
 <p align="center">
-  This iteration of <a href="https://github.com/shoaibmohammed7/heuristic.folio/" target="_blank">heuristicfolioshoaib.gatsbyjs.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.gatsbyjs.com/products/cloud/" target="_blank">Gatsby Cloud</a>
+  This iteration of <a href="https://heuristicfolioshoaib.gatsbyjs.io/" target="_blank">heuristicfolioshoaib.gatsbyjs.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.gatsbyjs.com/products/cloud/" target="_blank">Gatsby Cloud</a>
 </p>
 <!-- <p align="center">
   Previous iterations:
