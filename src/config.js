@@ -4,7 +4,7 @@ module.exports = {
     'Explore the captivating world of Shoaib Mohammed, a visionary Software Developer and Graduate Student, showcasing cutting-edge creations and boundless innovation.',
   siteKeywords:
     'Shoaib Mohammed, Shoaib, Mohammed, shoaibmohammed7, software developer, software engineer, site creation, Brain Tumor Detection, Network Analysis, web developer, java developer, pepper content, Hyderabad, Cognizant, bit, mesra',
-  siteUrl: 'https://heuristicfoliomaster.gatsbyjs.io/',
+  siteUrl: 'https://heuristicfolioshoaib.gatsbyjs.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-043ZHM6NN9',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
