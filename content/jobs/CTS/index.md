@@ -3,7 +3,7 @@ date: '2021-07-21'
 title: 'Engineering Intern'
 company: 'CTS'
 location: 'Hyderabad, IN'
-range: 'March- July 2021'
+range: 'March- July 2020'
 url: 'https://www.cognizant.com/'
 ---
 

@@ -3,7 +3,7 @@ date: '2020-07-15'
 title: 'Programmer Analyst'
 company: 'Cognizant'
 location: 'Hyderabad, IN'
-range: 'August 2021 - July 2022'
+range: 'August 2020 - July 2022'
 url: 'https://www.cognizant.com/'
 ---
 
