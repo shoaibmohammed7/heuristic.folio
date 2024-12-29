@@ -2,22 +2,20 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Java
-  - Spring MVC & Maven
+  - JavaScript
+  - Node.js
   - React
   - TypeScript
-  - Node.js
-  - Javascript
-  - Python
-  - SQL/MySQL
+  - Next.js
+  - Postgres
+  - WebRTC
+  - WS
 ---
 
-Greetings, world! I'm Shoaib, a passionate creator hailing from the vibrant city of Hyderabad, India. I enjoy creating things that live on the internet. As a Computer Science master's student, currently immersed in the world of Artificial Intelligence at the illustrious Illinois Institute of Technology in Chicago.
+Hi there! I’m Shoaib, a passionate software engineer and tech enthusiast with a master's degree in Computer Science from the Illinois Institute of Technology, Chicago. With a strong foundation in AI and web technologies, I thrive on crafting innovative solutions that blend cutting-edge technology with intuitive user experiences.
 
-My journey in the realm of technology has led me to discover my true calling: the fusion of web development, mobile app creation, and the boundless possibilities of machine learning. What truly excites me is the potential to revolutionize the financial landscape, both for individuals and businesses, by harnessing the power of data analysis and predictive modeling.
+Throughout my journey, I’ve gained hands-on experience in designing scalable, high-performance applications. From building real-time systems and automation platforms to creating immersive digital environments, my work is driven by a desire to solve complex problems and push the boundaries of what’s possible. My expertise spans across backend systems, cloud infrastructure, and user-centric design, enabling me to deliver impactful and reliable solutions.
 
-With an unwavering belief in the transformative potential of machine learning, I am driven to develop impactful applications that empower people to make well-informed financial decisions, as I'm intrested in contributing significantly to the ever-evolving Fintech field, bridging the gap between cutting-edge technology and pragmatic financial wisdom.
-
-Join me on this exhilarating journey as we embark on a mission to shape the future, one ingenious application at a time. Together, let's make the world a smarter and more savvy place.
+What excites me most is creating tools that simplify lives and drive efficiency—whether it’s enhancing workflows, empowering users through automation, or reimagining how we interact with technology. My approach combines technical excellence with creativity, always focusing on building products that resonate with users and deliver tangible value.
 
 Here is a list of the technologies that I'm familiar with!
