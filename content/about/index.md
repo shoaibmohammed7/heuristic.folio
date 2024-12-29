@@ -19,3 +19,4 @@ Throughout my journey, I’ve gained hands-on experience in designing scalable, 
 What excites me most is creating tools that simplify lives and drive efficiency—whether it’s enhancing workflows, empowering users through automation, or reimagining how we interact with technology. My approach combines technical excellence with creativity, always focusing on building products that resonate with users and deliver tangible value.
 
 Here is a list of the technologies that I'm familiar with!
+ksjdagckjsd
