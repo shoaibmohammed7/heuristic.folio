@@ -1,6 +1,6 @@
 ---
 date: '2023-05-09'
-title: 'Hawk's Nest Graduate Assistant'
+title: 'Hawk Nest Graduate Assistant'
 company: 'Illinois Tech'
 location: 'Chicago, IL'
 range: 'May 2023- May 2024'
