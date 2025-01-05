@@ -12,7 +12,7 @@ skills:
   - WS
 ---
 
-Hi there! I’m Shoaib, a passionate software engineer and tech enthusiast with a master's degree in Computer Science from the Illinois Institute of Technology, Chicago. With a strong foundation in AI and web technologies, I thrive on crafting innovative solutions that blend cutting-edge technology with intuitive user experiences.
+Hi there! I’m Shoaib, a passionate software engineer and tech enthusiast with a master's degree in Computer Science from the Illinois Institute of Technology, Chicago. With a strong foundation in AI and Web technologies, I thrive on crafting innovative solutions that blend cutting-edge technology with intuitive user experiences.
 
 Throughout my journey, I’ve gained hands-on experience in designing scalable, high-performance applications. From building real-time systems and automation platforms to creating immersive digital environments, my work is driven by a desire to solve complex problems and push the boundaries of what’s possible. My expertise spans across backend systems, cloud infrastructure, and user-centric design, enabling me to deliver impactful and reliable solutions.
 
