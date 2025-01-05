@@ -1,16 +1,19 @@
 ---
-date: '2020-07-15'
+date: '2021-03-15'
 title: 'Programmer Analyst'
 company: 'Cognizant'
 location: 'Hyderabad, IN'
-range: 'August 2020 - July 2022'
+range: 'March 2021 - July 2022'
 url: 'https://www.cognizant.com/'
 ---
 
-- Developed React]S-based apps that let us use the same codebase to render pages on the client and the server.
-
-- Designed Single Page Application (SPA) using: Angular, Bootstrap, TypeScript, CSS3, HTML5.
+- Developed full-stack features using React, Node.js, and PostgreSQL, enhancing application functionality and performance.
+- Built and optimized React-based applications with SSR, improving load times by 25% and enhancing user experience.
 - Work with a variety of different languages, platforms, and frameworks such as Java, React, JavaScript, TypeScript, Gatsby, and WordPress
 - Worked extensively in the implementation of payment REST API which reduced the manual work of employees by 30%.
 - Identified and resolved 40+ performance issues and 30+ bugs.
+- Designed a SPA using React,MUI, TypeScript, CSS3, and HTML5, enhancing application performance by 20%
 - Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Implemented a Test-Driven Development (TDD) approach to resolve high-priority production issues, ensuring robust code
+quality and reducing issue resolution time by 30%, while improving system stability.
+
