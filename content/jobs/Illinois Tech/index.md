@@ -4,7 +4,7 @@ title: 'Hawk's Nest Graduate Assistant'
 company: 'Illinois Tech'
 location: 'Chicago, IL'
 range: 'May 2023- May 2024'
-url: null
+url: 'https://www.iit.edu/'
 ---
 
 - Training and Development of University chatbot(Talon the Scarlet Hawk) powered by Gecko and integrated with ChatGPT & web scraping capabilities to provide real-time answers to student queries.
