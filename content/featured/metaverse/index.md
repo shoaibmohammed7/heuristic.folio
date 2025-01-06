@@ -6,7 +6,7 @@ github: 'https://github.com/shoaibmohammed7/metaverse'
 
 tech:
   - Websocket(WS)
-  - Node
+  - Express
   - Typescript
   - WebRTC 
   - TDD

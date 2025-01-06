@@ -5,7 +5,6 @@ cover: 'build.png'
 github: 'https://github.com/shoaibmohammed7/buildr'
 
 tech:
-  - Node.js
   - Web Container
   - Typescript
   - OpenAI 
