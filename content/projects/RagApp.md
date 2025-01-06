@@ -1,15 +1,14 @@
 ---
-date: '2023-02-15'
-title: 'Article Application'
-github: 'https://github.com/shoaibmohammed7/ArticleApp.git'
+date: '2024-02-15'
+title: 'RAG Application'
+github: 'https://github.com/shoaibmohammed7/rag-application'
 external: ''
 tech:
-  - React
-  - Javascript
-  - CSS
+  - LangChain
   - Python
+  - Vector Store
+  - Embeddings
 company: ''
 showInProjects: true
 ---
-
-Building a custom Application using react framework with cards feature.This project is bootstrapped with [Create React App](https://github.com/facebook/create-react-app.git).
+Retrieval-Augmented Generation approach to enhance information processing from YouTube videos. It transcribes video audio using Whisper, turns transcripts into a searchable database with Pinecone, and leverages enhanced question-answering capabilities by combining retrieved data with language models
