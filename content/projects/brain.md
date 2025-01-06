@@ -1,8 +1,7 @@
 ---
 date: '2021-11-13'
 title: 'Brain Tumor Detection with Transfer Learning'
-github: 'https://ieeexplore.ieee.org/abstract/document/9640678'
-external: ''
+external: 'https://ieeexplore.ieee.org/abstract/document/9640678'
 tech:
   - OpenCV
   - TensorFlow
