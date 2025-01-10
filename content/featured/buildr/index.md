@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Website Builder - No Code '
-cover: 'build.png'
+cover: 'ai.png'
 github: 'https://github.com/shoaibmohammed7/buildr'
 
 tech:
