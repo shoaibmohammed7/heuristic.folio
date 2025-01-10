@@ -1,7 +1,7 @@
 ---
 date: '2024-06-02'
 title: 'Software Engineer'
-company: 'SimTech'
+company: 'Simtec'
 location: 'Chicago, IL'
 range: 'May 2024- Present'
 url: null
